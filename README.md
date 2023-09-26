@@ -1,3 +1,3 @@
-# end to and
+# end to end
 
 - 피아노
