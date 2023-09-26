@@ -1,4 +1,4 @@
-# end to end(B) 안녕하세요.
+# end to end(B) 반갑습니다.
 
 - 피아노
 - 노래방
